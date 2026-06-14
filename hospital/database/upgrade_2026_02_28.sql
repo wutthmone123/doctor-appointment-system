@@ -1,0 +1,7 @@
+USE hospital_db;
+
+ALTER TABLE doctors
+    ADD COLUMN IF NOT EXISTS phone VARCHAR(25) NOT NULL DEFAULT '' AFTER email,
+    ADD COLUMN IF NOT EXISTS address VARCHAR(255) NOT NULL DEFAULT '' AFTER phone,
+    ADD COLUMN IF NOT EXISTS schedule_min_time TIME NOT NULL DEFAULT '09:00:00' AFTER specialty,
+    ADD COLUMN IF NOT EXISTS schedule_max_time TIME NOT NULL DEFAULT '17:00:00' AFTER schedule_min_time;
