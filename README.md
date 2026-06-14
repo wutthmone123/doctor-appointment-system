@@ -19,12 +19,12 @@ UI/UX ပိုင်းကို သေသပ်လှပပြီး အသု
 ## 📸 Screenshots (စနစ်၏ မြင်ကွင်းပုံစံများ)
 
 ### ၁။ Patient & Doctor View
-![Dashboard View](photo_2026-06-14_22-44-57.png)
-![Dashboard View](photo_2026-06-14_22-45-10.png)
-![Dashboard View](photo_2026-06-14_22-45-37.png)
-![Dashboard View](photo_2026-06-14_22-45-58.png)
-![Dashboard View](photo_2026-06-14_22-49-08.png)
-![Dashboard View](photo_2026-06-14_22-49-15.png)
+![Home page View](photo_2026-06-14_22-44-57.jpg)
+![Patient View](photo_2026-06-14_22-45-10.jpg)
+![Doctor View](photo_2026-06-14_22-45-37.jpg)
+![Admin View](photo_2026-06-14_22-45-58.jpg)
+![Sigin View](photo_2026-06-14_22-49-08.jpg)
+![Logout View](photo_2026-06-14_22-49-15.jpg)
 
 ---
 
